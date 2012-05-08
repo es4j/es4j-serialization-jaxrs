@@ -1,0 +1,21 @@
+# maven noise
+target
+
+# osx noise
+.DS_Store
+profile
+
+#IntelliJ Idea noise
+*.iws
+*.ipr
+*.iml
+
+# TeX build noise
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.tex~
+*.thm
+*.toc

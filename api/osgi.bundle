@@ -1,0 +1,3 @@
+-exportcontents: \
+                        org.glassfish.sse.api; \
+                        version=${project.osgi.version}
