@@ -1,4 +1,4 @@
-package org.es4j.serialization.jaxrs.api.client;
+package org.es4j.misc.jaxrs.api.client;
 
 /**
  * Root exception for all JAX-RS client-side specific exceptions.

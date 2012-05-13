@@ -1,9 +1,9 @@
-package org.es4j.serialization.jaxrs.api.client;
+package org.es4j.misc.jaxrs.api.client;
 
 import java.util.concurrent.Future;
 
 import org.es4j.serialization.jaxrs.api.core.GenericType;
-import org.es4j.serialization.jaxrs.api.core.Response;
+import org.es4j.misc.jaxrs.api.core.Response;
 
 /**
  * Uniform interface for asynchronous invocation of HTTP methods.
