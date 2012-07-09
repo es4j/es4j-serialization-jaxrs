@@ -1,4 +1,4 @@
-package org.es4j.serialization.jaxrs.api.client;
+package org.es4j.misc.jaxrs.api.client;
 
 /**
  * Callback that can be implemented to receive the asynchronous processing

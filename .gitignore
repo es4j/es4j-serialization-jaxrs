@@ -1,3 +1,5 @@
+target/
+
 *.class
 
 # Package Files #
@@ -9,4 +11,7 @@
 # Intellij IDEA Files #
 .idea/
 *.iml
+
+
+/jersey2-tests/target/
 

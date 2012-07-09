@@ -1,11 +1,9 @@
-package org.es4j.serialization.jaxrs.api.client;
+package org.es4j.misc.jaxrs.api.client;
 
 import java.util.Locale;
-
 //import javax.ws.rs.core.Form;
-
 import org.es4j.serialization.jaxrs.api.core.MediaType;
-import org.es4j.serialization.jaxrs.api.core.MultivaluedMap;
+//import org.es4j.serialization.jaxrs.api.core.MultivaluedMap;
 import org.es4j.serialization.jaxrs.api.core.Variant;
 
 /**

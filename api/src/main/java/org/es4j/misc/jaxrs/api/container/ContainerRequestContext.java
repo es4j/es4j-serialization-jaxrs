@@ -1,4 +1,4 @@
-package org.es4j.serialization.jaxrs.api.container;
+package org.es4j.misc.jaxrs.api.container;
 
 import java.io.InputStream;
 import java.lang.annotation.Annotation;
@@ -9,12 +9,12 @@ import java.util.Locale;
 import java.util.Map;
 
 //import javax.ws.rs.core.Cookie;
-import org.es4j.serialization.jaxrs.api.core.Request;
-import org.es4j.serialization.jaxrs.api.core.Response;
+import org.es4j.misc.jaxrs.api.core.Request;
+import org.es4j.misc.jaxrs.api.core.Response;
 //import javax.ws.rs.core.UriInfo;
 
-import org.es4j.serialization.jaxrs.api.core.SecurityContext;
-import org.es4j.serialization.jaxrs.api.MessageProcessingException;
+import org.es4j.misc.jaxrs.api.core.SecurityContext;
+import org.es4j.misc.jaxrs.api.MessageProcessingException;
 import org.es4j.serialization.jaxrs.api.core.GenericType;
 import org.es4j.serialization.jaxrs.api.core.MediaType;
 import org.es4j.serialization.jaxrs.api.core.MultivaluedMap;

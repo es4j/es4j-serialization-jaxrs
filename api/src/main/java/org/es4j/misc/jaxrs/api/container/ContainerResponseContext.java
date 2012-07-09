@@ -1,4 +1,4 @@
-package org.es4j.serialization.jaxrs.api.container;
+package org.es4j.misc.jaxrs.api.container;
 
 import java.io.OutputStream;
 import java.lang.annotation.Annotation;

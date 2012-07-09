@@ -1,4 +1,4 @@
-package org.es4j.serialization.jaxrs.api;
+package org.es4j.misc.jaxrs.api;
 
 /**
  * The exception thrown by JAX-RS runtime in case the processing of a message

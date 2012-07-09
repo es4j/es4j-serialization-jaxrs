@@ -1,6 +1,6 @@
-package org.es4j.serialization.jaxrs.api.client;
+package org.es4j.misc.jaxrs.api.client;
 
-import org.es4j.serialization.jaxrs.api.core.Response;
+import org.es4j.misc.jaxrs.api.core.Response;
 
 /**
  * A runtime exception thrown during the HTTP request invocation processing,

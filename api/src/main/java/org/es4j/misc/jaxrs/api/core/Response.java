@@ -1,4 +1,4 @@
-package org.es4j.serialization.jaxrs.api.core;
+package org.es4j.misc.jaxrs.api.core;
 
 /**
  *
